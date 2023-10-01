@@ -1,0 +1,7 @@
+name: "github-follow-from-list"
+channels:
+  - "conda-forge"
+  - "nodefaults"
+dependencies:
+  # NOTE: v2 is on PyPI, but not yet conda-forge.
+  - "pygithub ~=1.59"
