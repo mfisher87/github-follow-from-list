@@ -47,10 +47,10 @@ Run from source:
 
 ## Minimum Viable Product
 
-* Read list of usernames from a newline-delimited text file
-* Read fine-grained personal access token with "write" permissions to the "Followers"
+- [x] Read list of usernames from a newline-delimited text file
+- [x] Read fine-grained personal access token with "write" permissions to the "Followers"
   resource from `GITHUB_FOLLOWER_WRITE_TOKEN`.
-* Send a request to GitHub API to follow each user.
+- [x] Send a request to GitHub API to follow each user.
 
 
 ## Future
