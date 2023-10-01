@@ -6,6 +6,17 @@ tool.
 
 ## Using
 
+> :warning: Just use the bash script.
+>
+> It's more efficient, doesn't require installing dependencies, etc.
+>
+> ```
+> ./same_thing_but_in_bash.sh input.txt
+> ```
+>
+> The Python script was for playing around. If you must use the Python script, read on.
+
+
 ### Installing
 
 Run from source:
